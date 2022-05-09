@@ -1,3 +1,5 @@
+# !!! REPOSITORY HAS MOVED [HERE](https://github.com/Quartic-Impact/Quartic-Impact) !!!
+
 # Cubic Impact
 
 A heavily modified version of the ImpactJS game engine.
@@ -12,7 +14,8 @@ A heavily modified version of the ImpactJS game engine.
   - [x] Implement `ig.Config`
   - [x] Implement displaying documentation (perhaps through some jQuery hover plugin)
 
-### Classes / Modules 
+### Classes / Modules
+
 - `Vec2`
 - `ig.System` (tick system)
 - `sc.Control`
